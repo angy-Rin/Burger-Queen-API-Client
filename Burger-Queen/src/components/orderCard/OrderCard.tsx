@@ -115,4 +115,3 @@ const OrderCard: React.FC<OrderCardProps> = ({ status }) => {
 };
 
 export default OrderCard;
-
